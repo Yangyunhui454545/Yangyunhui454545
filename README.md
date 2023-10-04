@@ -14,20 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
 
-  ### Hello World! 👋 
-  ### This is Butter, back-end developer
-  
+
+  <h3> Hello World! 👋 </h3> 
+  <h3> This is Butter, back-end developer </h3>
   <img src="https://github.com/Yangyunhui454545/Yangyunhui454545/assets/43237961/49b12764-50e2-4873-a1c6-518946328fa1" width="100" height="150"/>
 
 <br> 
 
-✨ My Notion link ✨ <img src="https://img.shields.io/badge/notion-000000?style=for-the-badg&logo=notion&logoColor=white"/> 
+✨ My Notion link ✨<img src="https://img.shields.io/badge/notion-000000?style=for-the-badg&logo=notion&logoColor=white"/> 
 
-
+<div align="center">
 <hr>
-✨ Technology Stack ✨ <br> <br> 
+✨ Technology Stack ✨ <br><br>
 
 <img src="https://img.shields.io/badge/java-437291?style=for-the-badge&logo=openjdk&logoColor=white"> 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -36,9 +35,8 @@ Here are some ideas to get you started:
 <br> 
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badg&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badg&logo=Springboot&logoColor=white"/>
 
-
-<hr>
-✨ Cowork Tools Stack ✨ <br> <br> 
+<br><br> 
+✨ Cowork Tools Stack ✨ <br><br>
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badg&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badg&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badg&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badg&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badg&logo=swagger&logoColor=white"/> 
 
 <hr>
